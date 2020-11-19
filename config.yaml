@@ -1,0 +1,21 @@
+baseURL: https://edsandorf.me
+
+languageCode: en-us
+title: Erlend Dancke Sandorf
+theme: "toha"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    
+params:
+  gitRepo: https://github.com/edsandorf/edsandorf.github.io
+  enableBlogPost: true
+  enableTOC: true
+  background: "images/mykines.jpg"
+  logo:
+    main: images/transparent.png
+    inverted: images/transparent.png
+    favicon: images/transparent.png
+

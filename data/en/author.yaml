@@ -1,0 +1,17 @@
+name: "Erlend Dancke Sandorf, PhD"
+
+
+greeting: ""
+image: "images/author/sandorf.jpg"
+
+
+contactInfo:
+  email: "erlend.dancke.sandorf@nmbu.no"
+
+# some summary about what you do
+summary:
+  - I am an Environmental Economist
+  - I am a Choice Modeler
+  - I work on Climate Change
+  - I work on Ecosystem Degration
+  - I work on Sustainability

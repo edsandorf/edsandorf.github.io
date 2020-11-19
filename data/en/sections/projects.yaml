@@ -1,0 +1,31 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+
+# your projects
+projects:
+- name: The Influence of Information Search on Preference Formation and Choice (INSPiRE)
+  logo: /images/sections/projects/inspire-project-vineyard.jpg
+  role: PI
+  timeline: "Nov 2018 - Okt 2020"
+  url: https://inspire-project.info  
+  summary: Horizon 2020 - Marie Sklodowska-Curie Individual Fellowship No. 793163
+  tags: ["professional", "academic"]
+
+- name: Producer and Consumer Preferences for Sustainable Shrimp Aquaculture Policy in Vietnam
+  logo: /images/sections/projects/shrimp-aquaculture-01.jpg
+  role: Co-I
+  timeline: "Jun 2018 - Present"
+  summary: NAFOSTED No. 502.99-2018.25
+  tags: ["professional", "academic"]

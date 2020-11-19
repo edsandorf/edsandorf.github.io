@@ -1,0 +1,62 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+
+designation: Post-doctoral Researcher
+company:
+  name: School of Economics and Business, Norwegian University of Life Sciences
+  url: "https://www.nmbu.no/en/faculty/hh"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/2020-10-26-curriculum-vitae-sandorf.pdf"
+
+# a summary about you
+summary: 'I am a Marie Sklodowska-Curie Research Fellow with the Economics Division at the Stirling Managment School. I hold a PhD in Environmental Economics from UiT - The Arctic University of Norway. My research interests lie in the areas of choice modeling and environmental economics. I specialize in the application of advanced discrete choice models in the context of environmental valuation.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "erlend.dancke.sandorf@nmbu.no"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/edsandorf"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/2878014/edsandorf?tab=profile"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/erlend-dancke-sandorf/"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/EDSandorf"
+  
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Econometrics
+  percentage: 85
+  color: blue
+- name: Choice Modeling
+  percentage: 85
+  color: blue  
+- name: Public speaking
+  percentage: 85
+  color: blue    
+- name: Envir. Econ.
+  percentage: 90
+  color: green
+- name: Resource Econ.
+  percentage: 90
+  color: green
+- name: Behavioral Econ.
+  percentage: 90
+  color: green  

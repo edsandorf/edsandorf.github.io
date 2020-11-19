@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Technical skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R
+  icon: "/images/sections/skills/rlogo.png"
+  summary: "Worked extensively with R. Written several R packages."
+  url: "https://cran.r-project.org/"
+
+- name: Ox
+  icon: "/images/sections/skills/ox.png"
+  summary: "Experience with maximum likelihood estimation using Ox."
+  url: "https://www.doornik.com/ox/index.html?content=http://www.doornik.com/ox/oxsumry.html"
+
+- name: Matlab
+  icon: "/images/sections/skills/matlab.png"
+  summary: "Basic knowledge of Matlab and maximum likelihood estimation."
+  url: "https://www.mathworks.com/products/matlab.html"
+  
+- name: Git
+  icon: "/images/sections/skills/git.png"
+  summary: "Experience using Git for version control. Mostly use Github."
+  url: "https://git-scm.com/"
