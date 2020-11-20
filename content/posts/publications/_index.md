@@ -1,8 +1,8 @@
 ---
-title: Journal Publications
+title: Publications
 menu:
   sidebar:
-    name: Journal Publications
+    name: Publications
     identifier: publications
     weight: 300
 ---

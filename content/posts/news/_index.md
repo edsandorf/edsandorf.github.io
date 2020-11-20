@@ -1,8 +1,8 @@
 ---
-title: News and updates
+title: News
 menu:
   sidebar:
-    name: News and updates
+    name: News
     identifier: news
     weight: 300
 ---

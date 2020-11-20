@@ -1,8 +1,8 @@
 ---
-title: Blog Posts
+title: Blog
 menu:
   sidebar:
-    name: Blog Posts
+    name: Blog
     identifier: blog
     weight: 300
 ---
