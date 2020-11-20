@@ -1,6 +1,6 @@
 ---
 title: "New publication in Bio-based and Applied Economics"
-date: 2020-09-16T08:00:00+01:00
+date: 2020-10-15T08:00:00+01:00
 author:
   name: Erlend Dancke Sandorf, PhD
   image: /images/author/sandorf.jpg
